@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.DS_STORE
+.jekyll-cache
+.env
+.prettierignore
+.jekyll-metadata
+node_modules
