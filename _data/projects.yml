@@ -23,8 +23,15 @@
     - tag: Node
 
 - name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+  descr: "Create posts containing code, outputs of code (which can be interactive), formatted text, etc directly from Jupyter Notebooks; Notebook posts support features such as:
+
+    Interactive visualizations made with Altair remain interactive.
+    Hide or show cell input and output.
+    Collapsable code cells that are either open or closed by default.
+    Define the Title, Summary and other metadata via a special markdown cells
+    Ability to add links to Colab and GitHub automatically.
+"
+  demo: https://github.com/MikeOwino/blog/
   tags:
     - tag: Python
     - tag: Django
