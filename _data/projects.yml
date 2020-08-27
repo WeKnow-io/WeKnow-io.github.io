@@ -13,7 +13,7 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
+- name: MikeOwino.github.io
   descr: "Yet another complex site with multiple subuURL resources "
   demo: https://github.com/MikeOwino/MikeOwino.github.io
   tags:
