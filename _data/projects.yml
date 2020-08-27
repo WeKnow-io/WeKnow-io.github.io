@@ -14,7 +14,8 @@
 #     - tag: Node
 
 - name: MikeOwino.github.io
-  descr: "Yet another complex site with multiple subuURL resources "
+  descr: "Yet another complex site with multiple subuURL resources
+  Interactive visualizations made with Altair remain interactive. "
   demo: https://github.com/MikeOwino/MikeOwino.github.io
   tags:
     - tag: HTML
@@ -24,7 +25,7 @@
     - tag: Django
     - tag: CSS
 
-- name: project Y
+- name: Blog
   descr: "Create posts containing code, outputs of code (which can be interactive), formatted text, etc directly from Jupyter Notebooks; Notebook posts support features such as:
 
     Interactive visualizations made with Altair remain interactive.
