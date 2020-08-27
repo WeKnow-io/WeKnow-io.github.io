@@ -1,10 +1,15 @@
 - title: WeKnow.io
-  title-url: https://weknow.github.io/
-  date: Sep 2019 - Present
+  title-url: https://weknow-io.github.io/
+  date: March 2019 - Present
   subtitle: Fullstack Developer
   tags:
     - tag: React
     - tag: Javascript
     - tag: Ruby
     - tag: Rails
+    - tag: HTML
+    - tag: Node
+    - tag: CSS
+    - tag: Python
+    - tag: Jekyll
   timeline-side: right
