@@ -17,10 +17,12 @@
   descr: "Yet another complex site with multiple subuURL resources "
   demo: https://github.com/MikeOwino/MikeOwino.github.io
   tags:
-    - tag: MongoDB
-    - tag: Express
+    - tag: HTML
+    - tag: Python
     - tag: AngularJS
     - tag: Node
+    - tag: Django
+    - tag: CSS
 
 - name: project Y
   descr: "Create posts containing code, outputs of code (which can be interactive), formatted text, etc directly from Jupyter Notebooks; Notebook posts support features such as:
@@ -35,4 +37,7 @@
   tags:
     - tag: Python
     - tag: Django
+    - tag: Jekyll
+    - tag: Jupyter Notebook
+
 
