@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: If you like this website and want one for yourself, Not probably the same like this one.
+contact_description: If you like this website and want one for yourself, Not probably the same like this one.Contact Us through one of the platforms below.
 
 # GITHUB-METADATA
 # Set this to your forked repository
